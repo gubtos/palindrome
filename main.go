@@ -9,7 +9,7 @@ import (
 
 func main() {
 	if len(os.Args) != 2 {
-		fmt.Println("execute da seguinte forma:\nusinggolib \"a sacada da casa\"")
+		fmt.Println("execute da seguinte forma:\npalindrome \"a sacada da casa\"")
 
 		return
 	}
